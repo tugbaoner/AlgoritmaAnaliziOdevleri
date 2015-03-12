@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2010\Projects\KnıncıEleman\KnıncıEleman\bin\Debug\KnıncıEleman.exe
+c:\users\acer\documents\visual studio 2010\Projects\KnıncıEleman\KnıncıEleman\bin\Debug\KnıncıEleman.pdb
+c:\users\acer\documents\visual studio 2010\Projects\KnıncıEleman\KnıncıEleman\obj\x86\Debug\KnıncıEleman.exe
+c:\users\acer\documents\visual studio 2010\Projects\KnıncıEleman\KnıncıEleman\obj\x86\Debug\KnıncıEleman.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\KnıncıEleman\KnıncıEleman\obj\x86\Debug\KnıncıEleman.csprojResolveAssemblyReference.cache

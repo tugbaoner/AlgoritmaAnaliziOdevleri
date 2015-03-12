@@ -1,0 +1,5 @@
+C:\Users\acer\Documents\Visual Studio 2010\Projects\MaxEleman\MaxEleman\bin\Debug\MaxEleman.exe
+C:\Users\acer\Documents\Visual Studio 2010\Projects\MaxEleman\MaxEleman\bin\Debug\MaxEleman.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\MaxEleman\MaxEleman\obj\x86\Debug\MaxEleman.exe
+C:\Users\acer\Documents\Visual Studio 2010\Projects\MaxEleman\MaxEleman\obj\x86\Debug\MaxEleman.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\MaxEleman\MaxEleman\obj\x86\Debug\MaxEleman.csprojResolveAssemblyReference.cache
