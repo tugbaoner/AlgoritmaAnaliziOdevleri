@@ -67,7 +67,7 @@ System.out.println();
 }
 public void ekranabaskesisim(int yedek[][],int vezirsayisi)
     {
-       int cakisma=0;
+       
     System.out.print("  ");
     for(int i=0;i<vezirsayisi;i++)
       System.out.print(i+"  ");
@@ -76,11 +76,11 @@ for(int i=0;i<vezirsayisi;i++){
     System.out.print(i);
 for(int j=0;j<vezirsayisi;j++){
 System.out.print(" "+yedek[j][i]+" ");
-cakisma=cakisma+yedek[j][i];
+
 }
 System.out.println();
 }
-        System.out.println("Toplam cakisma sayisi: "+cakisma);
+        
 }
 public void kesisimsayilari(char tahta[][],int tahta2[][],int vezirsayisi){
     int temp=0;
@@ -196,6 +196,67 @@ break;
 }
 }
 }
+
+    void cakismalar(char[][] tahta) {
+        int cakismabul = 0;
+        int sutun=0;
+        int satir=0;
+
+      
+        for (int i = 0; i < 8; i++) {
+            for (int j = 0; j < 8; j++) {
+
+                if (tahta[i][j] == '1') {
+                    satir = i;
+                    sutun = j;
+                    while (satir > 0 && sutun > 0) {
+                        satir--;
+                        sutun--;
+                        if (tahta[satir][sutun] == '1') {
+                            cakismabul++;
+                        }
+
+                    }
+                    satir = i;
+                    sutun = j;
+                    while (satir < 7 && sutun < 7) {
+                        satir++;
+                        sutun++;
+                        if (tahta[satir][sutun] == '1') {
+                            cakismabul++;
+                        }
+                    }
+                    satir = i;
+                    sutun = j;
+                    while (satir < 7 && sutun > 0) {
+                        satir++;
+                        sutun--;
+                        if (tahta[satir][sutun] == '1') {
+                            cakismabul++;
+                        }
+                    }
+                    satir = i;
+                    sutun = j;
+                    while (satir > 0 && sutun < 7) {
+                        satir--;
+                        sutun++;
+                        if (tahta[satir][sutun] == '1') {
+                            cakismabul++;
+                        }
+                    }
+
+                    for (int k = 0; k < 8; k++) {
+                       
+                        if (tahta[i][j] == tahta[i][k] && j != k) {
+                            cakismabul++;
+                        }
+                    }
+                }
+            }
+        }
+
+        System.out.println("Tahta üzerinde çakışan vezir sayisi: " + cakismabul);
+    }
 }
    
 

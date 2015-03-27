@@ -38,10 +38,9 @@ public class Sekiz_Vezir {
      System.out.println();
      nesne.ekranabas(tahta, vezirsayisi);
      
-     
      nesne.kesisimsayilari(tahta,yedek,vezirsayisi);
       System.out.println();
-      
+       nesne.cakismalar(tahta);
       System.out.println("Her bir vezirin çakışma sayıları bulundu.");
       System.out.println();
      nesne.ekranabaskesisim(yedek,vezirsayisi);
