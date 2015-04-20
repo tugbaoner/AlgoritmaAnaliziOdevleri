@@ -1,0 +1,4 @@
+c:\users\acer\documents\visual studio 2010\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+c:\users\acer\documents\visual studio 2010\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+c:\users\acer\documents\visual studio 2010\Projects\BinarySearchTree\BinarySearchTree\obj\x86\Debug\BinarySearchTree.exe
+c:\users\acer\documents\visual studio 2010\Projects\BinarySearchTree\BinarySearchTree\obj\x86\Debug\BinarySearchTree.pdb
