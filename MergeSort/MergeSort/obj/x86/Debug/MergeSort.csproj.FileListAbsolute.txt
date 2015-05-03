@@ -1,0 +1,4 @@
+c:\users\acer\documents\visual studio 2010\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+c:\users\acer\documents\visual studio 2010\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+c:\users\acer\documents\visual studio 2010\Projects\MergeSort\MergeSort\obj\x86\Debug\MergeSort.exe
+c:\users\acer\documents\visual studio 2010\Projects\MergeSort\MergeSort\obj\x86\Debug\MergeSort.pdb
