@@ -1,0 +1,4 @@
+c:\users\acer\documents\visual studio 2010\Projects\MaxSUBsuM2\MaxSUBsuM2\bin\Debug\MaxSUBsuM2.exe
+c:\users\acer\documents\visual studio 2010\Projects\MaxSUBsuM2\MaxSUBsuM2\bin\Debug\MaxSUBsuM2.pdb
+c:\users\acer\documents\visual studio 2010\Projects\MaxSUBsuM2\MaxSUBsuM2\obj\x86\Debug\MaxSUBsuM2.exe
+c:\users\acer\documents\visual studio 2010\Projects\MaxSUBsuM2\MaxSUBsuM2\obj\x86\Debug\MaxSUBsuM2.pdb
