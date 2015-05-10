@@ -1,0 +1,4 @@
+c:\users\acer\documents\visual studio 2010\Projects\MAXSubSUM\MAXSubSUM\bin\Debug\MAXSubSUM.exe
+c:\users\acer\documents\visual studio 2010\Projects\MAXSubSUM\MAXSubSUM\bin\Debug\MAXSubSUM.pdb
+c:\users\acer\documents\visual studio 2010\Projects\MAXSubSUM\MAXSubSUM\obj\x86\Debug\MAXSubSUM.exe
+c:\users\acer\documents\visual studio 2010\Projects\MAXSubSUM\MAXSubSUM\obj\x86\Debug\MAXSubSUM.pdb
