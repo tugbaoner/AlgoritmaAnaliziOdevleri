@@ -1,0 +1,4 @@
+c:\users\acer\documents\visual studio 2010\Projects\SinavSorusu_8\SinavSorusu_8\bin\Debug\SinavSorusu_8.exe
+c:\users\acer\documents\visual studio 2010\Projects\SinavSorusu_8\SinavSorusu_8\bin\Debug\SinavSorusu_8.pdb
+c:\users\acer\documents\visual studio 2010\Projects\SinavSorusu_8\SinavSorusu_8\obj\x86\Debug\SinavSorusu_8.exe
+c:\users\acer\documents\visual studio 2010\Projects\SinavSorusu_8\SinavSorusu_8\obj\x86\Debug\SinavSorusu_8.pdb
