@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2010\Projects\SinavSorusu_6\SinavSorusu_6\bin\Debug\SinavSorusu_6.exe
+c:\users\acer\documents\visual studio 2010\Projects\SinavSorusu_6\SinavSorusu_6\bin\Debug\SinavSorusu_6.pdb
+c:\users\acer\documents\visual studio 2010\Projects\SinavSorusu_6\SinavSorusu_6\obj\x86\Debug\SinavSorusu_6.exe
+c:\users\acer\documents\visual studio 2010\Projects\SinavSorusu_6\SinavSorusu_6\obj\x86\Debug\SinavSorusu_6.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\SinavSorusu_6\SinavSorusu_6\obj\x86\Debug\SinavSorusu_6.csprojResolveAssemblyReference.cache
